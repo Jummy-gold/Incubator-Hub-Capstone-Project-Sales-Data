@@ -8,11 +8,17 @@ INTRODUCTION. This repository contains sales data for a clothing company, provid
 
 [DATA OVERVIEW] (data overview)
 
-Data Set: Capstone sales data
+Data Seurce: Capstone sales data
 
 Variables: Products, Regions, Quantity, Revenue, Unit price, Customer ID and order ID
 
+Data Tools:
+
+Excel spreadsheet to clean data and remove duplicates. Excel was also used to create pivot tables fo
+
 KEY FINDINGS:
+m
+
 
 ..Trend Analysis: Sales have consistently increased 
-...Product Performance: Top selling product is HAT and it accounts for  % of the total revenue.
+...Product Performance: Top selling product is HAT 
