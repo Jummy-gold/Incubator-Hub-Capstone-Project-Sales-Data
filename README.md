@@ -60,6 +60,12 @@ To get the Transaction Category
 ```
 =IF(F2<=5,"Low",IF(F2<=10,"Medium","High"))
 ```
+Total Quantity Sold
+```
+=SUM(F2:F9922)
+```
+
+
 
 Below are pivot tables on Excel
 
