@@ -92,7 +92,11 @@ Below are pivot tables on Excel
 ![Screenshot 2024-11-08 090604 sales pivot table](https://github.com/user-attachments/assets/787cbd16-872e-496e-8557-b52e75a3bbfc)
 ![Screenshot 2024-11-08 091118 sales pivot table](https://github.com/user-attachments/assets/5331817d-bef3-4778-b34a-e318990c9148)
 ![Screenshot 2024-11-08 091033 sales Pivot table](https://github.com/user-attachments/assets/972e4fb9-25cf-4c71-bf8a-cea8fafc0290)
-
+![Sales pivot jpg 1](https://github.com/user-attachments/assets/7969427c-dd4e-4d9e-9e0f-4075bd93516c)
+![sales data 2](https://github.com/user-attachments/assets/b2711ce4-b315-415d-9b1f-0eb1660d6e18)
+![sales data 3](https://github.com/user-attachments/assets/3b022364-fe18-40d1-9b10-2bf00e7185ad)
+![pivot chart 1](https://github.com/user-attachments/assets/6e3c8030-5192-43b3-bfc8-267856ad3b0f)
+![pivot chart 2](https://github.com/user-attachments/assets/8aa07a12-8bfc-448f-93be-1a9c733368ad)
 
 ## Analysis On SQL
 
@@ -105,6 +109,7 @@ These are the queries executed on SQL
 Cleaned data from Excel was imported to power BI. and here are some visuals
 
 ![Power BI sale data 2](https://github.com/user-attachments/assets/ad757a66-b3ab-4e48-89cf-2ec8e344d051)
+
 
 
 
