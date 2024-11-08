@@ -64,8 +64,27 @@ Total Quantity Sold
 ```
 =SUM(F2:F9922)
 ```
+Average Quantity Sold
+```
+=AVERAGE(F2:F9922)
+```
 
-
+Total Revenue Or Total Sales
+```
+=SUM(H2:H9922)
+```
+Average Revenue
+```
+=AVERAGE(H2:H9922)
+```
+Total Quantity Sold for Each Product
+```
+=SUMIF(C2:C9922,"productname",F2:F9922)
+```
+Total Revenue for each Product
+```
+=SUMIF(C2:C9922,"productname",H2:H9922)
+```
 
 Below are pivot tables on Excel
 
