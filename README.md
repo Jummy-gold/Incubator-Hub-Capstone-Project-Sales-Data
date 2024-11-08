@@ -17,9 +17,12 @@ This repository contains the Analysis of Capstone sales data, providing valuable
 - Capstone Project Sales Data
 
 ## Data Cleaning And Preparation
-- Microsoft Excel 
+- Microsoft Excel
+  
                 1. Data cleaning
-                2. For Data Analysis 
+   
+                2. For Data Analysis
+    
                 3. For visualization
 
 - SQL Structured Query Language...For Querying Data
