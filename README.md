@@ -1,9 +1,12 @@
-# Little-beginings...
-This is where I decided to start my experiences with the Tech world through LITA
+# Capstone Sales Data 
+An Analysis of Capstone Project Sales Data
 
 ## Title: SALES DATA ANALYSIS##
 
-INTRODUCTION. This repository contains sales data for a clothing company, providing valuable insights into customer purchasing behaviour and market trends.
+
+
+## PROJECT OVERVIEW.
+This repository contains the Analysis of Capstone sales data, providing valuable insights into customer purchasing behaviour and market trends with keen attention to the products with the highest performance.
 
 
 [DATA OVERVIEW] (data overview)
