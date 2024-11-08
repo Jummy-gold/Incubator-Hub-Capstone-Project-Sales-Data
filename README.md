@@ -9,9 +9,28 @@ An Analysis of Capstone Project Sales Data
 This repository contains the Analysis of Capstone sales data, providing valuable insights into customer purchasing behaviour and market trends with keen attention to the products with the highest performance.
 
 
-[DATA OVERVIEW] (data overview)
+## DATA SOURCES
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+- Incubator Hub Sales Data
+- Capstone Project Sales Data
 
-Data Seurce: Capstone sales data
+## Data Cleaning And Preparation
+- Microsoft Excel 
+                1. Data cleaning
+                2. For Data Analysis 
+                3. For visualization
+
+- SQL Structured Query Language...For Querying Data
+
+- Git Hub for Portfolio Building
+
+- Power BI...for building visualizations based on data received.
+- 
+
+                
+                
+
+Data Source: Capstone sales data
 
 Variables: Products, Regions, Quantity, Revenue, Unit price, Customer ID and order ID
 
