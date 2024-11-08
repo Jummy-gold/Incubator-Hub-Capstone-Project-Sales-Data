@@ -140,6 +140,7 @@ Cleaned data from Excel was imported to power BI. and here are some visuals
 
 ![Power BI sale data 2](https://github.com/user-attachments/assets/ad757a66-b3ab-4e48-89cf-2ec8e344d051)
 
+![sales data visual 1](https://github.com/user-attachments/assets/ffe03452-8013-44b8-b807-f9c1a41331da)
 
 
 
