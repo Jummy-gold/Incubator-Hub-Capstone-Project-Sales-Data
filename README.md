@@ -11,7 +11,9 @@ This repository contains the Analysis of Capstone sales data, providing valuable
 
 ## DATA SOURCES
 - Microsoft Excel [Download Here](https://www.microsoft.com)
+  
 - Incubator Hub Sales Data
+  
 - Capstone Project Sales Data
 
 ## Data Cleaning And Preparation
