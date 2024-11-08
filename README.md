@@ -51,6 +51,10 @@ Order ID
 
 To get Total Revenue I used
 
+```
+=f2*g2
+```
+
 To get the Transaction Category
 
 ```
