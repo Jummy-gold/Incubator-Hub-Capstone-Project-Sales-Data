@@ -30,18 +30,35 @@ This repository contains the Analysis of Capstone sales data, providing valuable
 - Git Hub for Portfolio Building
 
 - Power BI...for building visualizations based on data received.
-- 
+  
+## DATA ANALYSIS
 
-                
-                
+Variables used are 
 
-Data Source: Capstone sales data
+Products
 
-Variables: Products, Regions, Quantity, Revenue, Unit price, Customer ID and order ID
+Regions
 
-Data Tools:
+Quantity
 
-Excel spreadsheet to clean data and remove duplicates. Excel was also used to create pivot tables fo
+Revenue
+
+Unit price 
+
+Customer ID
+
+Order ID
+
+To get Total Revenue I used
+
+```
+=F2*G2
+```
+
+
+
+
+
 
 KEY FINDINGS:
 m
