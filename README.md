@@ -102,6 +102,36 @@ Below are pivot tables on Excel
 
 These are the queries executed on SQL
 
+To retrieve the total sales for each product category
+```
+select product,sum(revenue) as Total_Revenue
+from[dbo].[SALES_DATA_] Group by Product
+```
+Number of sales transaction in each Region
+```
+Select Region,sum(Revenue) as Total_Sales
+from  [dbo].[SALES_DATA_] Group by Region
+```
+Highest selling product by total sales value
+```
+Select Product, sum(Quantity) as Total_sales_or_Total_Quantity_Sold
+from [dbo].[SALES_DATA_] Group by Product
+Order by Total_sales_or_Total_Quantity_Sold Desc
+```
+Total revenue per product
+```
+Select Product,sum(Revenue) as Total_Revenue_per_Product
+from [dbo].[SALES_DATA_]
+Group by Product 
+```
+Total revenue per Region
+```
+Select Region,sum(Revenue) as Total_Revenue_per_Region
+from [dbo].[SALES_DATA_]
+Group by Region
+```
+
+
 
 
 ## Analysis on Power BI
