@@ -56,10 +56,36 @@ To get Total Revenue I used
 ```
 
 Below are pivot tables on Excel
+
 ![sales pivot table](https://github.com/user-attachments/assets/24b2fcc0-c95d-4c5b-8af8-2c61324f7362)
 ![Screenshot 2024-11-08 090604 sales pivot table](https://github.com/user-attachments/assets/787cbd16-872e-496e-8557-b52e75a3bbfc)
 ![Screenshot 2024-11-08 091118 sales pivot table](https://github.com/user-attachments/assets/5331817d-bef3-4778-b34a-e318990c9148)
 ![Screenshot 2024-11-08 091033 sales Pivot table](https://github.com/user-attachments/assets/972e4fb9-25cf-4c71-bf8a-cea8fafc0290)
+
+
+## Analysis On SQL
+
+These are the queries executed on SQL
+
+
+
+## Analysis on Power BI
+
+Cleaned data from Excel was imported to power BI. and here are some visuals
+
+![Power BI sale data 2](https://github.com/user-attachments/assets/ad757a66-b3ab-4e48-89cf-2ec8e344d051)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
