@@ -51,8 +51,10 @@ Order ID
 
 To get Total Revenue I used
 
+To get the Transaction Category
+
 ```
-=F2*G2
+=F=IF(F2<=5,"Low",IF(F2<=10,"Medium","High"))2*G2
 ```
 
 Below are pivot tables on Excel
