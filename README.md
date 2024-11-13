@@ -160,9 +160,13 @@ Cleaned data from Excel was imported to power BI. and here are some visuals
 
 
 
-KEY FINDINGS:
-m
+## KEY FINDINGS/ INFERENCE:
 
 
 ..Trend Analysis: Sales have consistently increased 
+
 ...Product Performance: Top selling product is HAT 
+
+## RECOMENDATION
+
+The company has to improve on making their presence felt in the market place by having constant promotions and advertisment of the products that has low demands in each regions. 
